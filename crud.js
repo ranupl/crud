@@ -1,1 +1,3 @@
-This is test file
+function create() {
+	console.log("Create for crud");
+}
