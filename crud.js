@@ -1,1 +1,3 @@
-This is test file
+function read() {
+	console.log("read for crud operatoin");
+}
