@@ -4,3 +4,6 @@ function read() {
 function create() {
 	console.log("Create for crud operation");
 } 
+function update() {
+	console.log("Update for crud opertions");
+}
